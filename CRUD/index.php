@@ -27,6 +27,7 @@ if(isset($_REQUEST['sub']))
     <title>Document</title>
 </head>
 <body>
+    Hi my name is Sharafat ALi
     <form action="" method="post">
         NAME
         <input type="text" name="nam" value="" id="" placeholder="Name" required><br>
